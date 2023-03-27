@@ -6,4 +6,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="jose-jwt" Version="4.1.0" />
+      <PackageReference Include="Nethereum.HdWallet" Version="4.14.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    </ItemGroup>
+
 </Project>
